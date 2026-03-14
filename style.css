@@ -1,0 +1,30 @@
+body{
+background:#1b2838;
+font-family:Arial;
+color:white;
+text-align:center;
+}
+
+.container{
+margin-top:100px;
+}
+
+button{
+background:#66c0f4;
+border:none;
+padding:15px 25px;
+font-size:18px;
+cursor:pointer;
+margin-top:15px;
+}
+
+input{
+display:block;
+margin:10px auto;
+padding:10px;
+width:250px;
+}
+
+.hidden{
+display:none;
+}
